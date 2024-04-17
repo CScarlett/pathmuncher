@@ -69,6 +69,7 @@ const CONSTANTS = {
       "pf2e.spells-srd",
       "pf2e-playtest-data.war-of-immortals-playtest-spells",
       "pf2e-legacy-content.spells-legacy",
+      "world.campendium",
     ],
     classes: [
       "pf2e.classes",
